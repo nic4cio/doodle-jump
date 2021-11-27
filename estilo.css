@@ -1,0 +1,30 @@
+body{
+	background-color: #000033;
+}
+h1{
+	color: white;
+	font-family: 'Lucida Handwriting'
+}
+.grid{
+	width:400px;
+	height:600px;
+	color: white;
+	background: url(pixelatedmoon.png);
+	position: relative;
+	font-size: 200px;
+	text-align: center;
+}
+
+.doodler{
+	width:60px;
+	height:85px;
+	background: url(scottp2.gif);
+	position: absolute;
+}
+
+.platform{
+	width:85px;
+	height:15px;
+	background: url(rainbowplat.png);
+	position: absolute;  
+}
